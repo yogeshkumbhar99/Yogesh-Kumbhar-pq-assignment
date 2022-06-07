@@ -1,0 +1,13 @@
+Author : Yogesh Kumbhar
+
+URLS
+	GIT
+		https://github.com/yogeshkumbhar99/payconiqTask.git
+	APIs
+		1)POST http://localhost:8080/api/stocks
+		2)GET http://localhost:8080/api/stocks?pageNo=0&pageSize=3&sortBy=name
+		3)GET http://localhost:8080/api/stocks/1
+		4)PATCH http://localhost:8080/api/stocks/1
+		5)DELETE http://localhost:8080/api/stocks/1
+	Swagger
+		http://localhost:8080/swagger-ui/index.html
